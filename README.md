@@ -3,15 +3,15 @@ you’ll create and manipulate Pandas DataFrames to analyze school and standardi
 
 ## Before You Begin
 
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `pandas-challenge.
 
 2. Clone the new repository to your computer.
 
-3. Inside your local Git repository, create a folder for this homework assignment and name the folder `PyCitySchools`.
+3. Inside your local Git repository, create a folder and name it `PyCitySchools`.
 
 4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
 
-5. Push these changes to GitHub or GitLab.
+5. Push these changes to GitHub.
 
 
 
@@ -25,7 +25,6 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
-**Hint:** Check out a [sample solution](PyCitySchools/PyCitySchools_starter.ipynb) to review the desired format for this assignment.
 
 ### District Summary
 
